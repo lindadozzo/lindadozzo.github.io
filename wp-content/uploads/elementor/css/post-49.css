@@ -1,0 +1,22 @@
+.elementor-49 .elementor-element.elementor-element-2c20c09.elementor-column .elementor-column-wrap {align-items: center;}
+.elementor-49 .elementor-element.elementor-element-2c20c09.elementor-column .elementor-column-wrap .elementor-widget-wrap {align-items: center;}
+.elementor-49 .elementor-element.elementor-element-2c20c09 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
+.elementor-49 .elementor-element.elementor-element-2c20c09:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-49 .elementor-element.elementor-element-2c20c09 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://jupiterx.artbees.net/web-designer/wp-content/uploads/sites/287/2019/08/contact-02.png");}
+.elementor-49 .elementor-element.elementor-element-2c20c09 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 27% 12% 34% 12%;}
+.elementor-49 .elementor-element.elementor-element-2c20c09 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-49 .elementor-element.elementor-element-95e1b37 .raven-heading-title, .elementor-49 .elementor-element.elementor-element-95e1b37 .raven-heading-title-inner {color: #383938;-webkit-text-fill-color: initial;}
+.elementor-49 .elementor-element.elementor-element-95e1b37 .raven-heading {font-size: 40px;font-weight: bold;line-height: 1.2em;}
+.elementor-49 .elementor-element.elementor-element-95e1b37 > .elementor-widget-container {padding: 0% 8% 5% 8%;}
+.elementor-49 .elementor-element.elementor-element-be794fb .elementor-text-editor {text-align: center;}
+.elementor-49 .elementor-element.elementor-element-be794fb {font-family: "Assistant",Sans-serif;}
+.elementor-49 .elementor-element.elementor-element-8e8f80a {text-align: center;}
+.elementor-49 .elementor-element.elementor-element-8e8f80a .elementor-social-icon {background-color: #000;font-size: 28px;padding: .3em;}
+.elementor-49 .elementor-element.elementor-element-8e8f80a .elementor-social-icon i {color: #fff;}
+.elementor-49 .elementor-element.elementor-element-8e8f80a .elementor-social-icon svg {fill: #fff;}
+.elementor-49 .elementor-element.elementor-element-8e8f80a .elementor-social-icon:not(:last-child) {margin-right: 19px;}
+.elementor-49 .elementor-element.elementor-element-8e8f80a .elementor-social-icon:hover {background-color: #d66161;}
+@media (max-width:1024px) and (min-width:768px) {.elementor-49 .elementor-element.elementor-element-2c20c09 {width: 100%;}}
+@media (max-width:1024px) {.elementor-49 .elementor-element.elementor-element-2c20c09 > .elementor-element-populated {padding: 10% 15% 10% 15%;}
+	.elementor-49 .elementor-element.elementor-element-95e1b37 .raven-heading {font-size: 30px;}}
+@media (max-width:767px) {.elementor-49 .elementor-element.elementor-element-2c20c09 > .elementor-element-populated {padding: 15% 3% 0% 3%;}
+	.elementor-49 .elementor-element.elementor-element-95e1b37 .raven-heading {font-size: 25px;}}
