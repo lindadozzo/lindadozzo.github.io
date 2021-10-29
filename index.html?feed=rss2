@@ -10,10 +10,6 @@
 <channel>
 	<title>lindadozzo</title>
 	<atom:link href="http://localhost/personal/?feed=rss2" rel="self" type="application/rss+xml" />
-	<link>http://localhost:8888/personal</link>
-	<description></description>
-	<lastBuildDate>
-	Mon, 12 Aug 2019 17:12:10 +0000	</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,10 +17,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.1.1</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>http://localhost:8888/personal/?p=1</link>
-				<comments>http://localhost:8888/personal/?p=1#comments</comments>
-				<pubDate>Fri, 07 Sep 2018 08:43:47 +0000</pubDate>
 		<dc:creator><![CDATA[linda_dozzo]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
